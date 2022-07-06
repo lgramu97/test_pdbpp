@@ -16,6 +16,7 @@ Alternatively, you can just put pdb.py somewhere inside your PYTHONPATH.
 #Breackpoint . stop the execution and use PDB.
 
 #Commands:
+    #Use breakpoint() to execute pdbpp.
     #c -> continuos
     #s -> step (get into)
     #sticky [start end] -> interactive view mode.
